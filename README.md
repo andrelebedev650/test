@@ -1,1 +1,1 @@
-nftdark.xyz
+nftdark.xyz:8080
