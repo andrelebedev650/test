@@ -1,1 +1,1 @@
-nftdark.xyz:8080
+https://nftdark.xyz
