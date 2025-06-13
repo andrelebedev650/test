@@ -1,1 +1,1 @@
-https://nftdark.xyz
+nftdark.xyz
